@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Estátus de Calificación de Alumno</string>
+    <string name="txt_mate">Calificación de Matemáticas</string>>
+    <string name="txt_Fis">Calificación de Física</string>>
+    <string name="txt_Qui">Calificación de Química</string>>
+    <string name="btn_prom">Promedio</string>>
+    <string name="tv_result">0.0</string>>
+    <string name="tv_estat">Reprobado</string>>
+</resources>
